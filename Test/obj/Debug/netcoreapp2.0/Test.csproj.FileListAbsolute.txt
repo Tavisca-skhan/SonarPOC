@@ -1,0 +1,17 @@
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\Test.dll
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\Test.pdb
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\SonarCubePoc.dll
+C:\Users\skhan\source\repos\SonarCubePoc\Test\bin\Debug\netcoreapp2.0\SonarCubePoc.pdb
+C:\Users\skhan\source\repos\SonarCubePoc\Test\obj\Debug\netcoreapp2.0\Test.csprojResolveAssemblyReference.cache
+C:\Users\skhan\source\repos\SonarCubePoc\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\skhan\source\repos\SonarCubePoc\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+C:\Users\skhan\source\repos\SonarCubePoc\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+C:\Users\skhan\source\repos\SonarCubePoc\Test\obj\Debug\netcoreapp2.0\Test.csproj.CopyComplete
+C:\Users\skhan\source\repos\SonarCubePoc\Test\obj\Debug\netcoreapp2.0\Test.dll
+C:\Users\skhan\source\repos\SonarCubePoc\Test\obj\Debug\netcoreapp2.0\Test.pdb

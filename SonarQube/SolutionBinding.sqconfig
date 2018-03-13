@@ -1,0 +1,11 @@
+{
+  "ServerUri": " https://public-sonarqube.common.cnxloyalty.com",
+  "Organization": null,
+  "ProjectKey": "test_temp",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "cs-sonar-way-14703",
+      "ProfileTimestamp": "2016-08-19T11:07:31+05:30"
+    }
+  }
+}
