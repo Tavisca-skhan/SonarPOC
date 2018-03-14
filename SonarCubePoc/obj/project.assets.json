@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skhan\\source\\repos\\SonarCubePoc\\SonarCubePoc\\SonarCubePoc.csproj",
+      "projectUniqueName": "D:\\Work\\Ocl\\SonarPOC\\SonarCubePoc\\SonarCubePoc.csproj",
       "projectName": "SonarCubePoc",
-      "projectPath": "C:\\Users\\skhan\\source\\repos\\SonarCubePoc\\SonarCubePoc\\SonarCubePoc.csproj",
+      "projectPath": "D:\\Work\\Ocl\\SonarPOC\\SonarCubePoc\\SonarCubePoc.csproj",
       "packagesPath": "C:\\Users\\skhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skhan\\source\\repos\\SonarCubePoc\\SonarCubePoc\\obj\\",
+      "outputPath": "D:\\Work\\Ocl\\SonarPOC\\SonarCubePoc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
